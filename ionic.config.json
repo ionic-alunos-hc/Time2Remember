@@ -1,0 +1,8 @@
+{
+  "name": "time_2_remember",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
