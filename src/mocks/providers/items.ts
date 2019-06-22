@@ -10,6 +10,7 @@ export class Items {
     "name": "Burt Bear",
     "profilePic": "assets/img/speakers/bear.jpg",
     "about": "Burt is a Bear.",
+    "quantidade": "1 kilo",
   };
 
 
@@ -18,37 +19,44 @@ export class Items {
       {
         "name": "Tomato",
         "profilePic": "assets/img/speakers/Tomato.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "1/2 kg"
       },
       {
         "name": "Carrot",
         "profilePic": "assets/img/speakers/Carrot.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "1/3 kg"
       },
       {
         "name": "Bread",
         "profilePic": "assets/img/speakers/Bread.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "6 breads"
       },
       {
         "name": "Cholesterol Medicine",
         "profilePic": "assets/img/speakers/Cholesterol-pills.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "2 boxes"
       },
       {
         "name": "Dog food",
         "profilePic": "assets/img/speakers/Dog food.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "20 kg"
       },
       {
         "name": "Cheese",
         "profilePic": "assets/img/speakers/Cheese.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "200 g"
       },
       {
         "name": "Soup",
         "profilePic": "assets/img/speakers/Soup.jpg",
-        "about": ""
+        "about": "",
+        "quantidade": "1/2 litro"
       }
     ];
 
